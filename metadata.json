@@ -1,0 +1,5 @@
+{
+  "name": "VeloStream AI Downloader",
+  "description": "A premium, AI-powered video downloader interface that analyzes URLs using Gemini to provide metadata, quality options, and a seamless download experience simulation.",
+  "requestFramePermissions": []
+}
